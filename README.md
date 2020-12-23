@@ -1,1 +1,5 @@
-# df_to_html
+# df2html
+
+Serve pandas DataFrame as an HTML page.
+
+Thats all folks!
